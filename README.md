@@ -1,4 +1,7 @@
-# test coverage for  [mongoose-auto-increment (v5.0.1)](https://github.com/codetunnel/mongoose-auto-increment#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-mongoose-auto-increment.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-mongoose-auto-increment) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-mongoose-auto-increment.svg)](https://travis-ci.org/npmtest/node-npmtest-mongoose-auto-increment)
+# npmtest-mongoose-auto-increment
+
+#### test coverage for  [mongoose-auto-increment (v5.0.1)](https://github.com/codetunnel/mongoose-auto-increment#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-mongoose-auto-increment.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-mongoose-auto-increment) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-mongoose-auto-increment.svg)](https://travis-ci.org/npmtest/node-npmtest-mongoose-auto-increment)
+
 #### This plugin allows you to auto-increment any field on any mongoose schema that you wish.
 
 [![NPM](https://nodei.co/npm/mongoose-auto-increment.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/mongoose-auto-increment)
